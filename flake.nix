@@ -1,5 +1,5 @@
 {
-  description = "Jordan's Neovim Configuration";
+  description = "Scott LaMott's Neovim Configuration, gestohlen von JordanIsaac";
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
     flake-utils.url = "github:numtide/flake-utils";
