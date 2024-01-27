@@ -249,7 +249,7 @@
     in {
       config = {
         build.viAlias = overrideable false;
-        build.vimAlias = overrideable true;
+        build.vimAlias = overrideable false;
         vim.languages = {
           enableLSP = overrideable true;
           enableFormat = overrideable true;
