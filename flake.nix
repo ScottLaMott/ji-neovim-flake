@@ -308,7 +308,7 @@
         };
         vim.debugger.ui.enable = overrideable true;
         vim.filetree.nvimTreeLua.enable = overrideable false;
-        vim.tabline.nvimBufferline.enable = overrideable true;
+        vim.tabline.nvimBufferline.enable = overrideable false;
         vim.treesitter.context.enable = overrideable true;
         vim.keys = {
           enable = overrideable true;
